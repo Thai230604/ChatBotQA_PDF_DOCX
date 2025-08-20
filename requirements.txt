@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-chroma
+pypdf
+python-docx
+python-dotenv
+langchain_community
+flask
+werkzeug
